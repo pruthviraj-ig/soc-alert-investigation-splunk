@@ -122,5 +122,4 @@ This investigation was performed in a controlled training environment.
 All data is simulated and used for educational SOC analyst practice.
 
 
-## 🧾 Sample Splunk Queries Used
-## 🧾 Sample Splunk Queries Used
+##  Sample Splunk Queries Used
